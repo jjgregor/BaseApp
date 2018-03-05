@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Base App</string>
+    <string name="base_url">replace with base url</string>
+</resources>
